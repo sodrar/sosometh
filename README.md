@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @sosometh
-- 🌱 I’m currently learning 
 
 
 
