@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sosometh
-- 🌱 I’m currently learning Symfony
+- 🌱 I’m currently learning 
 
 
 
